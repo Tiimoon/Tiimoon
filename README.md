@@ -38,4 +38,4 @@ Configuration de serveur "Linux" et "Windows"
 <br>
 <br>
 
-Apprenti dans le domaine de la cyber sécurité réseau. #livehack_admin
+Apprenti dans le domaine de la cyber sécurité réseau.
