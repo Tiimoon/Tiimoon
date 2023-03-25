@@ -1,6 +1,6 @@
 # <img src="./pic/computer.png"  height="20"> Tiimoon
 
-## Étudiant en BTS SIO option SISR
+## Étudiant en L3 IRT
 
 
 <img src="pic/datacenter.gif" align="right" height="250">
