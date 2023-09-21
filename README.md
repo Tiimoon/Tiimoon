@@ -1,6 +1,6 @@
-# <img src="./pic/computer.png"  height="20"> Tiimoon
+# <img src="./pic/computer.png"  height="20"> Thomas
 
-## Étudiant en L3 IRT
+## Étudiant en M1 STRI
 
 
 <img src="pic/datacenter.gif" align="right" height="250">
