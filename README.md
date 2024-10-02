@@ -15,18 +15,3 @@
 | -------------- | :--------- |
 | PortFolio | thomas.ribaut.eu |
 
-
-<br>
-<br>
-
-<img src="pic/cisco.gif" align="left" height="250">
-
-## **Mes Compétances** <img src="pic/cisco.png" height="20">
-
-Création intégrale de réseau, conf routeur, switch, création de réseau logique.
-
-Configuration de serveur "Linux" et "Windows"
-<br>
-<br>
-<br>
-<br>
