@@ -1,6 +1,6 @@
 # <img src="./pic/computer.png"  height="20"> Thomas
 
-## Étudiant en M1 STRI
+## Étudiant en M2 STRI
 
 
 <img src="pic/datacenter.gif" align="right" height="250">
@@ -30,12 +30,3 @@ Configuration de serveur "Linux" et "Windows"
 <br>
 <br>
 <br>
-
-<img src="pic/cyber.gif" align="right" height="150">
-
-<br>
-<br>
-<br>
-<br>
-
-Apprenti dans le domaine de la cyber sécurité réseau.
