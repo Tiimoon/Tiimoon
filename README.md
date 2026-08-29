@@ -11,7 +11,3 @@
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
-| Websites Name | Website URL |
-| -------------- | :--------- |
-| PortFolio | thomas.ribaut.eu |
-
